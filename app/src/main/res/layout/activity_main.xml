@@ -9,6 +9,6 @@
     tools:context=".MainActivity">
 
     <include layout="@layout/top_menu" />
-    
+
 
 </LinearLayout>
