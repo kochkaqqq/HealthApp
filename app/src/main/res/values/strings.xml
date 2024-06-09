@@ -1,3 +1,98 @@
 <resources>
     <string name="app_name">Health</string>
+    <string name="My_profile">My Profile</string>
+    <string name="Premium">Premium</string>
+    <string name="Training">Training</string>
+    <string name="Log_out">Log out</string>
+    <string name="Settings">Settings</string>
+    <string name="Guest">Guest</string>
+    <string name="Rank">Rating</string>
+    <string name="Invite_friends">Invite Friends</string>
+    <string name="Support">Support</string>
+    <string name="Account">Account</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="PasswordConfirmation">Confirm the password</string>
+    <string name="RegistrationBtn">Sign up</string>
+    <string name="Gender">Gender</string>
+    <string-array name="genders">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string name="YourHeight">Your Height</string>
+    <string name="YourWeight">Your Weight</string>
+    <string name="cm">cm</string>
+    <string name="kg">kg</string>
+    <string-array name="Languages">
+        <item>English</item>
+        <item>Russian</item>
+        <item>German</item>
+        <item>French</item>
+        <item>Italian</item>
+        <item>Portuguese</item>
+        <item>Chinese</item>
+    </string-array>
+    <string name="Registration">Registration</string>
+    <string name="AbsWorkout">Abs Workout</string>
+    <string name="LyingLegRaises">Lying Leg Raises</string>
+    <string name="Crunches">Crunches</string>
+    <string name="MountainClimber">Mountain Climber</string>
+    <string name="Bicycle">Bicycle</string>
+    <string name="pause">pause</string>
+    <string name="start">start</string>
+    <string name="butt_and_thigh">Butt and Thigh</string>
+    <string name="LowerBody">Lower Body</string>
+    <string name="UpperBody">Upper Body</string>
+    <string name="FatBurning">Fat Burning</string>
+    <string name="IdealBody">Ideal Body</string>
+    <string name="CreateYouTrain">Create Your Train</string>
+    <string name="CommunityTrains">Community Train</string>
+    <string name="Authorization">Authorization</string>
+    <string name="NicknameOrEmail">Name or Email</string>
+    <string name="RegisterIt">Register It!</string>
+    <string name="DontHaveAccount">Don`t have account?</string>
+    <string name="LogIn">Log In</string>
+    <string name="UserNotFound">User not found!</string>
+    <string name="AlreadyHaveAccount">Already have an Account?</string>
+    <string name="LogIn_">Log In!</string>
+    <string name="PasswordsNotMatch">Passwords Not Match!</string>
+    <string name="Squats">Squats</string>
+    <string name="Burpees">Burpees</string>
+    <string name="SquatJumps">Squat Jumps</string>
+    <string name="GetReady">GetReady!</string>
+    <string name="Work_exersice">Work</string>
+    <string name="Pause">Pause</string>
+    <string name="Congratulations...">"Congratulations, you completed the training and received "</string>
+    <string name="points">points</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bridge_and_twist">Bridge and Twist</string>
+    <string name="bulgarian_split_squat">Bulgarian Split Squat</string>
+    <string name="cobra_lat_pulldown">Cobra Lat Pulldown</string>
+    <string name="diamond_kicks">Diamond Kicks</string>
+    <string name="dumbell_punches">Dumbbell Punches</string>
+    <string name="forward_lunges">Forward Lunges</string>
+    <string name="high_knees">High Knees</string>
+    <string name="jumping_jacks">Jumping Jacks</string>
+    <string name="jumping_lunges">Jumping Lunges</string>
+    <string name="lying_hamstring_curls_gif">Lying Hamstring Curls</string>
+    <string name="oblique_crunch">Oblique Crunches</string>
+    <string name="lying_hamstring_curls">Lying Hamstring Curls</string>
+    <string name="pilates_swimming">Pilates Swimming</string>
+    <string name="plank_bird_dog">Plank Bird Dog</string>
+    <string name="plank_hip_dips">Plank Hip Dips</string>
+    <string name="reverse_crunches">Reverse Crunches</string>
+    <string name="reverse_plank_leg_raises">Reverse Plank Leg Raises</string>
+    <string name="rolling_squat">Rolling Squats</string>
+    <string name="seated_knee_tucks">Seated Knee Tucks</string>
+    <string name="side_lunges">Side Lunges</string>
+    <string name="side_plank_rotation">Side Plank Rotation</string>
+    <string name="single_leg_tricep_dips">Single Leg Tricep Dips</string>
+    <string name="skaters">Skaters</string>
+    <string name="spiderman_push_ups">Spiderman Push-Ups</string>
+    <string name="squat_kickback">Squat Kickback</string>
+    <string name="standing_side_crunch">Standing Side Crunch</string>
+    <string name="tricep_dips">Tricep Dips</string>
+    <string name="up_down_plank">Up Down Plank</string>
+    <string name="custom_trains">Custom Trains</string>
 </resources>
